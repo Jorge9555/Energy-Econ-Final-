@@ -10,7 +10,7 @@ Why is this important?
 
 Using these methods can help Politicians or NGOs gain better clarity as to what makes Americans value the Environment over different scenarios, and how important their principles are when challenged through a variety of circumstances (high gas prices for example).
 
-**Summary of Pol_Energy File and Findings **
+**Summary of Pol_Energy File and Findings
 
 Datasets Used:
 To gauge how well Americans support the environment over the years, I will use a Gallup poll stemming from 1989 until 2023. The link can be found here: https://news.gallup.com/poll/1615/environment.aspx
