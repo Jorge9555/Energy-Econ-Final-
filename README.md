@@ -10,7 +10,7 @@ Why is this important?
 
 Using these methods can help Politicians or NGOs gain better clarity as to what makes Americans value the Environment over different scenarios, and how important their principles are when challenged through a variety of circumstances (high gas prices for example).
 
-##Summary of Pol_Energy File and Findings##
+##Summary of Pol_Energy File and Findings
 
 Datasets Used:
 To gauge how well Americans support the environment over the years, I will use a Gallup poll stemming from 1989 until 2023. The link can be found here: https://news.gallup.com/poll/1615/environment.aspx
@@ -48,4 +48,7 @@ Scatter plot with both variables.
 Linear Relationship:
 y = 0.05x + 60.91
 
+## Conclusion 
+
+The average American seems to care about the environment a great deal, this is demonstrated through decades-long data having support consistently above a 50 percent mark. Their feelings fluctuate through a variety of different circumstances, but of these, the change in year-to-year gas is the most compelling variable. There is however the possibility of confounding variables in our analysis. The true volatility of oil market conditions can be a rapid shock effect that measures better with month-to-month data instead of year-long analysis. This possibility is not tracked in our analysis. I suggest further analysis for all of these variables with one another, with a larger data set stemming from farther back in time which is held at a variety of time periods. The field of American Politics can benefit greatly by using methods like these to test the power of variables against one another. This helps illustrate the interdisciplinary nature of market conditions and sequential polling opinions. By delving into the mechanisms and subsequent technical analysis, we can better inform policymakers and advocates as to what policy will end up being the most effective, both electorally and socially. 
 The more extensive file can be found under the Pol_Energy.ipynb file in the repository. 
